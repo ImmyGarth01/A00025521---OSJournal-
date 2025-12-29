@@ -5,7 +5,7 @@ The purpose of this phase is to plan my operating system deployment and justify 
 ---
 
 ## 1. System Architecture
-The system consists of a host workstation (your laptop) and an Ubuntu Server virtual machine running in VirtualBox. The workstation connects to the server via SSH over a host-only network. This setup provides isolated communication suitable for a secure lab environment.
+In my diagram below I am presenting my Host-Only Network setup which uses Virtual Box. As displayed, my personal workstation, the host laptop, has a direct connection to the Ubuntu Linux Server which is running as a virtual machine. The host and VM are connected by the SHH (Secure Shell) which allows for secure communication. As highlted before this is all done on Virtual Box's shared priavte network.
 
 **Diagram:**  
 ![System Architecture Diagram](Images/SystemArchitectureDiagram.png)
