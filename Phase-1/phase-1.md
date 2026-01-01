@@ -16,7 +16,7 @@ Within this project, I have decided to use an Ubuntu Server as my virtual machin
 
 One possible alternative to Ubuntu would be Debian. Although Ubuntu is part of the Debian family and both champion stability, Ubuntu is a better choice because it is more user-friendly, has more extensive documentation and community support, and offers Long Term Support (LTS) releases. This also means it provides a higher volume of up-to-date packages, which is particularly useful in a learning and test environment.
 
-Another alternative would be to use Fedora which is a part of the Red-Hat family. Despite it's good reputation for up-to-date software it would still be a bad choice for this particualar project, this is beause unlike Ubuntu, Fedora doesn't have LST, updating every 13 months, hence why it's software is so up to date. However as a result of this, it can't be considered a stable learning/testing enivornment which is required by my project 
+Another alternative would be to use Fedora which is a part of the Red-Hat family. Despite it's good reputation for up-to-date software it would still be a bad choice for this particualar project, this is beause unlike Ubuntu, Fedora doesn't have LST, updating every 13 months, hence why it's software is so up to date. However as a result of this, it can't be considered a stable learning/testing enivornment which is required by my project.
 
 ## 3. Workstation Configuration Decision 
 
