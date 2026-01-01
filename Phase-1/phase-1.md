@@ -12,6 +12,7 @@ In my diagram below I am presenting my Host-Only Network setup which uses Virtua
 
 
 ## 2. Distribution Selection Justification 
+Within this project I have decided to use an Ubuntu Server as my virtual machine. This is because I believe it is best suited to the learning test environment necessary to show the required skills in command-line proficiency and system configuration, security implementation, and performance analysis as specified in the assessment brief.
 
 ## 3. Workstation Configuration Decision 
 
