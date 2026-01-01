@@ -19,7 +19,7 @@ One possible alternative to Ubuntu would be Debian. Although Ubuntu is part of t
 Another alternative would be to use Fedora which is a part of the Red-Hat family. Despite it's good reputation for up-to-date software it would still be a bad choice for this particualar project, this is beause unlike Ubuntu, Fedora doesn't have LST, updating every 13 months, hence why it's software is so up to date. However as a result of this, it can't be considered a stable learning/testing enivornment which is required by my project.
 
 ## 3. Workstation Configuration Decision 
-My Workstation (my host laptop) operates using the Windows 11 Pro operating System and is a Dell XPS 15 9560 with an Intel Core i7-7700HQ CPU. On my host machine I downloaded Oracle Virtual Box which I am able to run the ubunut server on.
+My Workstation (my host laptop) operates using the Windows 11 Pro operating System and is a Dell XPS 15 9560 with an Intel Core i7-7700HQ CPU. The reason as to why I chose this workstationis becasue it had enough provessing ower and memory for me to download Oracle Virtual Box. Furthermore in using my laptop I am able to fufil the assessment cirteria of habing a dual-system architecture as I am using both a virtual server and physical hardware.
 
 ## 4. Network Configuration Documenation 
 
