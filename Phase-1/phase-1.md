@@ -22,6 +22,6 @@ Another alternative would be to use Fedora which is a part of the Red-Hat family
 My workstation, which is my host laptop, operates using Windows 11 Pro and is a Dell XPS 15 9560 with an Intel Core i7-7700HQ CPU. I chose this workstation because it has sufficient processing power and memory to download and run Oracle VirtualBox smoothly. Using my laptop allows me to maintain a dual-system architecture, with the host acting as the workstation and a virtual Ubuntu Server acting as the server, fulfilling the assessment criteria. This configuration provides a practical and efficient environment to perform server administration via the command line. 
 
 ## 4. Network Configuration Documenation 
-Within this project I have connected my Ubunutu Server with my host laptop via a shared internal network facilitieated and runningthough Oracle Virtual Box, this is so that there is a secure private communication between the two. 
+Within this project I have connected my Ubunutu Server with my host laptop via a shared internal network facilitieated and runningthough Oracle Virtual Box and its host only adapter, this is so that there is a secure private communication between the two. 
 
 ## 5. CLI Specifications Documentation
