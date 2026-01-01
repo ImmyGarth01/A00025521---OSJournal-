@@ -19,7 +19,7 @@ One possible alternative to Ubuntu would be Debian. Although Ubuntu is part of t
 Another alternative would be to use Fedora which is a part of the Red-Hat family. Despite it's good reputation for up-to-date software it would still be a bad choice for this particualar project, this is beause unlike Ubuntu, Fedora doesn't have LST, updating every 13 months, hence why it's software is so up to date. However as a result of this, it can't be considered a stable learning/testing enivornment which is required by my project.
 
 ## 3. Workstation Configuration Decision 
-
+My Workstation (my host laptop) operates using the Windows 11 Pro operating System and is a Dell XPS 15 9560 with an Intel Core i7-7700HQ CPU. I used my host machine to 
 ## 4. Network Configuration Documenation 
 
 ## 5. CLI Specifications Documentation
