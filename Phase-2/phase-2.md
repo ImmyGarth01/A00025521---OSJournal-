@@ -29,6 +29,12 @@ Step 1) Firstly you should establish your current baseline metrics, this will in
 
 Step 2) Here you are creating a fake workload that will be simulating the a real work load. Think about running some extra background tasks, copying large files, anything that gets some extra processes going. Remember that this is to test how the server copes with extra stress
 
+Step 3)
+
+Step 4)
+
+Step 5)
+
 
 
 ## 2.Security Configuration Checklist 
