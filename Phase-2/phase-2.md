@@ -29,9 +29,16 @@ Step 1) Firstly you should establish your current baseline metrics, this will in
 
 Step 2) Here you are creating a fake workload that will be simulating the a real work load. Think about running some extra background tasks, copying large files, anything that gets some extra processes going. Remember that this is to test how the server copes with extra stress
 
-Step 3)
+Step 3) Using the same command line tools as step 1, keep checking the metrics, making note of how they compare 
 
-Step 4)
+Step 4) Then compare to the industry standards to test that the server is operating to same level 
+
+CPU < 80% average usage over time
+RAM	> 20% free memory 
+Disk	< 85% full
+Network - Below the Max of the Interface Network (In this case it is -)
+
+I found the network max by typing hte command 'ip link' to find the main networl interface which is enp0s3 and then I used the commands: sudo apt update, sudo apt install ethtool -y and sudo ethtool enp0s3
 
 Step 5)
 
