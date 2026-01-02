@@ -21,8 +21,14 @@ df -h → disk usage
 ip addr → network interface and IP status
 
 **Testing Approach:**  
-Below I will palce a testing flow diagram on how I think the testing approach should go
+Below I will place a testing flow diagram on how I think the testing approach should go and will go into a little more detail under it
+
 ![Testing Approach](Images/TestingApproach.png)
+
+Step 1) Firstly you should establish your current baseline metrics, this will include your current CPU, Network, Memory and Disk Usage, the command line tools needed to do this are highlihgted under the remote monitoring methodology heading above 
+
+Step 2) 
+
 ## 2.Security Configuration Checklist 
 
 
