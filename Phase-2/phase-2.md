@@ -46,7 +46,17 @@ Step 5) With the new acquired knoweldge on the server's faults you can update wh
 
 ## 2.Security Configuration Checklist 
 
+**SSH Hardening:**  
 
+**Firewall Configuration:**  
+
+**Mandatory Access Control:**  
+
+**Automatic Updates:**  
+
+**User Privilege Management:**  
+
+**Network Security:**  
 
 
 ## 3. Threat Model
