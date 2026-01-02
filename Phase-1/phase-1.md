@@ -28,3 +28,5 @@ In regards to the IP addressing, this is automantically set by Oracle Boxe's bui
 
 ## 5. CLI Specifications Documentation
 Below are screenshots of my Command Line terminal with the system specifications
+![CLISpec1](Images/CLISpec1)
+![CLISpec2](Images/CLISpec2)
