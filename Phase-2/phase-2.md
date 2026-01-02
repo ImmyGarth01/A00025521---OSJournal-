@@ -21,7 +21,7 @@ df -h → disk usage
 ip addr → network interface and IP status
 
 **Testing Approach:**  
-![Testing Approach](Images/Testing Approach.png)
+![Testing Approach](Images/TestingApproach.png)
 ## 2.Security Configuration Checklist 
 
 
