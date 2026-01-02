@@ -33,8 +33,8 @@ Below are screenshots of my Command Line terminal with the system specifications
 
 For a quick overview the commands are as follows:
 
-Uname -a  - This shows all system information
-free - Shows memory stoarge (RAM)
+line Uname -a  - This shows all system information
+line free - Shows memory stoarge (RAM)
 df -h - Shows disk storage usuage
 ip addr - Shows network information
 lsb_release -a - Shows linux distribution information
