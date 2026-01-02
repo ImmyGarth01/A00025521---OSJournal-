@@ -51,6 +51,12 @@ Step 5) With the new acquired knoweldge on the server's faults you can update wh
 
 **SSH Hardening:**  
 
+SSH hardening refers to the need to add extra protections around using SSH, making remote access safer. 
+
+1. Disable Root Password Entry - By disabling the root password there is an added protection of using a user login so sudo can be accessed by only those who have the permissions
+
+2. d
+
 **Firewall Configuration:**  
 
 **Mandatory Access Control:**  
