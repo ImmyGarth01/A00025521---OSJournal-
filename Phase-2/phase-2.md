@@ -40,7 +40,7 @@ Network - Below the Max of the Interface Network (In this case it is 1000Mb/S)
 
 I found the network max by typing hte command 'ip link' to find the main network interface which is enp0s3 and then I used the commands: sudo apt update, sudo apt install ethtool -y and sudo ethtool enp0s3 (I used AI to help me find these commands) 
 
-Step 5)
+Step 5) With the new acquired knoweldge on the server's faults you can update whatever needs to be done and test it again 
 
 
 
