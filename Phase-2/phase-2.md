@@ -21,6 +21,7 @@ df -h → disk usage
 ip addr → network interface and IP status
 
 **Testing Approach:**  
+Below I will palce a testing flow diagram on how I think the testing approach should go
 ![Testing Approach](Images/TestingApproach.png)
 ## 2.Security Configuration Checklist 
 
