@@ -27,7 +27,9 @@ Below I will place a testing flow diagram on how I think the testing approach sh
 
 Step 1) Firstly you should establish your current baseline metrics, this will include your current CPU, Network, Memory and Disk Usage, the command line tools needed to do this are highlihgted under the remote monitoring methodology heading above 
 
-Step 2) 
+Step 2) Here you are creating a fake workload that will be simulating the a real work load. Think about running some extra background tasks, copying large files, anything that gets some extra processes going. Remember that this is to test how the server copes with extra stress
+
+
 
 ## 2.Security Configuration Checklist 
 
