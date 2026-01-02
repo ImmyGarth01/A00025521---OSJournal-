@@ -57,7 +57,7 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 
 2. Change the Default SSH port - The default port is 22, which means attackers will search for this port for entry, by changing it to a random port you can reduce the likelyhood of these attacks
 
-3. 
+3. Incorporate SSH keys - SSH keys are two sided, the public key being on the server and the private on the worksation, meaning that the private key as an addiitonal layer of security 
 
 **Firewall Configuration:**  
 
