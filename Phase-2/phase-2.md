@@ -11,6 +11,7 @@ As a part of the project dual system requirement, the Ubunutu servers will be mo
 This will be done utilising the Command Line terminal in which certain commands can be used to monitor different aspects of the system such as its storage and processing usuage. 
 
 Examples include:
+
 top / htop → CPU and process monitoring
 
 free -h → RAM usage
