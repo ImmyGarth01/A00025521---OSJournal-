@@ -36,9 +36,9 @@ Step 4) Then compare to the industry standards to test that the server is operat
 CPU < 80% average usage over time
 RAM	> 20% free memory 
 Disk	< 85% full
-Network - Below the Max of the Interface Network (In this case it is -)
+Network - Below the Max of the Interface Network (In this case it is 1000Mb/S)
 
-I found the network max by typing hte command 'ip link' to find the main networl interface which is enp0s3 and then I used the commands: sudo apt update, sudo apt install ethtool -y and sudo ethtool enp0s3
+I found the network max by typing hte command 'ip link' to find the main network interface which is enp0s3 and then I used the commands: sudo apt update, sudo apt install ethtool -y and sudo ethtool enp0s3 (I used AI to help me find these commands) 
 
 Step 5)
 
