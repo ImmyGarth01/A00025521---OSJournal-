@@ -55,7 +55,9 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 
 1. Disable Root Password Entry - By disabling the root password there is an added protection of using a user login so sudo can be accessed by only those who have the permissions
 
-2. d
+2. Change the Default SSH port - The default port is 22, which means attackers will search for this port for entry, by changing it to a random port you can reduce the likelyhood of these attacks
+
+3. 
 
 **Firewall Configuration:**  
 
