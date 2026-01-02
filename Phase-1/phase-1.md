@@ -33,9 +33,9 @@ Below are screenshots of my Command Line terminal with the system specifications
 
 For a quick overview the commands are as follows:
 
-Uname - 
-free - 
-df -h - 
-ip addr - 
-lsb_release -a - 
+Uname -a  - This shows all system information
+free - Shows memory stoarge (RAM)
+df -h - Shows disk storage usuage
+ip addr - Shows network information
+lsb_release -a - Shows linux distribution information
 
