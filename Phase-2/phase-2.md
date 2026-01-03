@@ -59,7 +59,9 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 
 2. Change the Default SSH port - The default port is 22, which means attackers will search for this port for entry, by changing it to a random port you can reduce the likelyhood of these attacks
 
-3. Incorporate SSH keys - SSH keys are two sided, the public key being on the server and the private on the worksation, meaning that the private key as an addiitonal layer of security 
+3. Incorporate SSH keys - SSH keys are two sided, the public key being on the server and the private on the worksation, meaning that the private key as an addiitonal layer of security
+
+
 
 **Firewall Configuration:**  
 
@@ -67,7 +69,9 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 
 2. Limit access to unvetted ports - Only allow for the SHH essential port to penetrate the firewall, this will mean that you aren't allowing access through any unmaned ports
 
-3. Allow Firewall Monitoring - By making your firewall log all blocked and allowed accesses you have a log that you can cross-referenace if anything has gone wrong or any attack is targeted to you 
+3. Allow Firewall Monitoring - By making your firewall log all blocked and allowed accesses you have a log that you can cross-referenace if anything has gone wrong or any attack is targeted to you
+
+
 
 **Mandatory Access Control:**  
 
