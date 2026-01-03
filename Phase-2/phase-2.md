@@ -78,7 +78,9 @@ Mandatory Access Control (MAC) is more centered around the protection against th
 
 1. Enable AppArmour Application - This app is default on Ubunutu servers, it reviews security permissions and restricts access to system resources and protected files
 
-2. 
+2. Make Sure AppArmor profiles are applied - These are essentially the rules of permissions of your specific server
+
+3. Consistenly review AppArmour Rules - By changing these rules often you are updating the best security strategy for your server at any current time. 
 
 **Automatic Updates:**  
 
