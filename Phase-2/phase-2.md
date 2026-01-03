@@ -76,7 +76,9 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 **Mandatory Access Control:**  
 Mandatory Access Control (MAC) is more centered around the protection against the permissions given to applications and what they are allowed to do on the server 
 
-1. 
+1. Enable AppArmour Application - This app is default on Ubunutu servers, it reviews security permissions and restricts access to system resources and protected files
+
+2. 
 
 **Automatic Updates:**  
 
