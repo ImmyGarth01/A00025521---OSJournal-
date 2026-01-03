@@ -61,7 +61,14 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 
 **Firewall Configuration:**  
 
+1. Create a Firewall - This will create an extra barrier, blocking out unwanted connections
+
+2. Limit access to unvetted ports - Only allow for the SHH essential port to penetrate the firewall, this will mean that you aren't allowing access through any unmaned ports
+
+3. Allow Firewall Monitoring - By making your firewall log all blocked and allowed accesses you have a log that you can cross-referenace if anything has gone wrong or any attack is targeted to you 
+
 **Mandatory Access Control:**  
+
 
 **Automatic Updates:**  
 
