@@ -101,5 +101,11 @@ This heading is in reference to making sure you have the latest updates and secu
 
 **Network Security:**  
 
+1. Restrict Network Access -
+
+2. Monitor Network Access -
+
+3. Disable unused Network Services -
+
 
 ## 3. Threat Model
