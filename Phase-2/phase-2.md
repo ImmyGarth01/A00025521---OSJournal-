@@ -49,6 +49,8 @@ Step 5) With the new acquired knoweldge on the server's faults you can update wh
 
 ## 2.Security Configuration Checklist 
 
+In order to add some order and simplicity I put 3 checklist points for each suggested subheading
+
 **SSH Hardening:**  
 
 SSH hardening refers to the need to add extra protections around using SSH, making remote access safer. 
