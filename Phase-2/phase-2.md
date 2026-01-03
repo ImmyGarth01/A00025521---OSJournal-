@@ -83,6 +83,13 @@ Mandatory Access Control (MAC) is more centered around the protection against th
 3. Consistenly review AppArmour Rules - By changing these rules often you are updating the best security strategy for your server at any current time. 
 
 **Automatic Updates:**  
+This heading is in reference to making sure you have the latest updates and security patching
+
+1. Enable Unsupervised Updates - By allowing your server to update regardless you are guarenteed to have the most up to date protections, saving time too
+
+2. Priortize Security Updates - Although there may be many updates, make sure to prioritse the security ones so that your server is secure
+
+3. Check your Update History Regulary - If you check the updates for the latest security updates, you'll have a better idea of what protectioisn you have, and if one has failed to download you can be aware of it
 
 **User Privilege Management:**  
 
