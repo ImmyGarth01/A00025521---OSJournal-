@@ -101,11 +101,11 @@ This heading is in reference to making sure you have the latest updates and secu
 
 **Network Security:**  
 
-1. Restrict Network Access -
+1. Restrict Network Access - This is dictated by the firewall rules but its always good rule of thumb to check, this is so you only have secure connections 
 
-2. Monitor Network Access -
+2. Monitor Network Access - You can do this to detect any unusal activity that could potentailly be a threat 
 
-3. Disable unused Network Services -
+3. Disable unused Network Services - Any services that are not being used are an avenue that could be exploited, make sure you disable the services that aren't being used
 
 
 ## 3. Threat Model
