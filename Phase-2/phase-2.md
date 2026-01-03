@@ -93,6 +93,12 @@ This heading is in reference to making sure you have the latest updates and secu
 
 **User Privilege Management:**  
 
+1. Make sure to use Standard Accounts - If you use a standard login user account then you can make suer that only the neccessary changes are made using sudo
+
+2. Limited logged Sudo Access - As an exentsion of the last point, make sure you gice sudo access to a limited amount of people, logging who has it as an extra precaution
+
+3. Deleted Dormant Accounts - Delete all accounts that aren't used, this is becasue they can act as an entry point for hackers if not monitored properly 
+
 **Network Security:**  
 
 
