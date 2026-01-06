@@ -122,4 +122,8 @@ Unauthorised SSH access can be granted as result of your passwords getting stole
 
 ***Threat 2***
 
-This can happen when you have a weak firewall that hasn't been configured properly having poorly written rules that don't do much to keep the system secure. In order to comabt this the recommended mitigating strategy is 
+This can happen when you have a weak firewall that hasn't been configured properly having poorly written rules that don't do much to keep the system secure. In order to comabt this the recommended mitigating strategy is by implmenting a default-deny policy in your firewall and regularly reviwing and monioring your firewall and it's rules.
+
+***Threat 3***
+
+Having out-of-date software is an easy mistake that can be a result of not enough monitoring, Luckily, as my server is an Ubunutu one I can utilise the LTS (Long Term Support) to update patches. Secondly in just using moinitoring software, through command line monitoring  the system you can make note of what needs to be update, enabling security updates as needed.
