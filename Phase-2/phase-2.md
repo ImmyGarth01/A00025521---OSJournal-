@@ -71,6 +71,8 @@ SSH hardening refers to the need to add extra protections around using SSH, maki
 
 3. Allow Firewall Monitoring - By making your firewall log all blocked and allowed accesses you have a log that you can cross-referenace if anything has gone wrong or any attack is targeted to you
 
+4. Having a Default-deny policy - This will allow you to close the wall to all in event of a security attack that is hard to pinpoint or manage 
+
 
 
 **Mandatory Access Control:**  
@@ -118,3 +120,6 @@ Below I will highlight some threat scenarios and relate them to the points on th
 
 Unauthorised SSH access can be granted as result of your passwords getting stolen, a mitigation strategy for this can be to change the default port and disable the root login from the SSH this is because by changing the default port you are defending yourself against automated attacks and by disabling the login you are preventing immediate administrative access.
 
+***Threat 2***
+
+This can happen when you have a weak firewall that hasn't been configured properly having poorly written rules that don't do much to keep the system secure. In order to comabt this the recommended mitigating strategy is 
