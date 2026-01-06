@@ -10,7 +10,7 @@ Select applications representing different workload types for performative evalu
 
 ## 2. Installation Documentation 
 
-### SSH Connection Verification###
+### SSH Connection Verification
 
 As you can see at top there is my username, which shows that my SSH is connected to my Ubunutu server
 
