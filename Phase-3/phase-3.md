@@ -8,7 +8,7 @@ Select applications representing different workload types for performative evalu
 ![ApplicationSelectionMatrix](Images/ApplicationSelectionMatrix.png)
 
 
-## 2. Performance Testing plan 
+## 2. Installation Documentation 
 
 ## 3. Performance Testing plan 
 
