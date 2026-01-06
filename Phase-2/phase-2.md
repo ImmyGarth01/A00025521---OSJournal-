@@ -115,5 +115,6 @@ Below I will highlight some threat scenarios and relate them to the points on th
 ![Threats](Images/Threats)
 
 ***Threat 1***
+
 Unauthorised SSH access can be granted as result of your passwords getting stolen, a mitigation strategy for this can be to change the default port and disable the root login from the SSH this is because by changing the default port you are defending yourself against automated attacks and by disabling the login you are preventing immediate administrative access.
 
