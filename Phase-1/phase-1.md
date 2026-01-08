@@ -26,7 +26,9 @@ Within this project I have connected my Ubunutu Server with my host laptop via a
 
 In regards to the IP addressing, this is automantically set by Oracle Boxe's built-in DHCP service, thus assigning a private IP address to the Ubuntu Server. The host workstation is tehn also assigned an IP address on the same subnet,which ultimately allows for there to be direct communication between the two systems.
 
-*** SSH Connection Evidence***
+
+
+***SSH Connection Evidence***
 ![SSH.Proof](Images/SSH.Proof)
 
 ## 5. CLI Specifications Documentation
