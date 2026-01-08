@@ -41,7 +41,7 @@ Here is my vertification of the installation of the packages and the output from
 
 Lastly here I am verifying my ngnix service to show its running 
 
-## 3. Performance Testing plan 
+## 3. Expected Resource Profiles
 
-## 4. Performance Testing plan 
+## 4. Monitoring Strategy
 
