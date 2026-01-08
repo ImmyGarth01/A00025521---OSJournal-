@@ -31,7 +31,7 @@ Here are my packages being installed which are described above in my application
 
 ### Installation Verification ###
 
-![InstallingVer.png](Images/InstallingVer.png)
+![InstallVer.png](Images/InstallVer.png)
 
 Here is my vertification of the installation of the packages and the output from that 
 
