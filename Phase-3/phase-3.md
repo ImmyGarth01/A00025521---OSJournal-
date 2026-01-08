@@ -43,5 +43,8 @@ Lastly here I am verifying my ngnix service to show its running
 
 ## 3. Expected Resource Profiles
 
+![ExpectedResourceProfiles.png](Images/ExpectedResourceProfiles.png)
+
+
 ## 4. Monitoring Strategy
 
