@@ -90,8 +90,7 @@ Showing a successful connection
 
 ### After: Firewall Configuration
 
-![DisableRoot.png](Images/Disabloot.png)
-
+![FirewallAfter.png](Images/FirewallAfter.png) 
 
 ## 6. Firewall Documentation 
 
