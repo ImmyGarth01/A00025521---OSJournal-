@@ -94,5 +94,9 @@ Showing a successful connection
 
 ## 6. Firewall Documentation 
 
+![VerifyFirewall.png](Images/VerifyFirewall.png)
+
+Above is the Firewall Documentation showing the complete ruleset
+
 ## 7. Remote Adminstration Evidence 
 
