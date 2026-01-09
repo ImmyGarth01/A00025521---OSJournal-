@@ -6,15 +6,15 @@ Deploy your server and implement foundational security controls
 
 ## 1. Configure SSH with Key-based authentication  
 
-### Creating a Public and Private Key on my Host Machine
+### a. Creating a Public and Private Key on my Host Machine
 ![CreationPPkeys](Images/CreationPPkeys)
 
-### Manually Adding the Public Key to my Ubunutu Server
+### b. Manually Adding the Public Key to my Ubunutu Server
 ![ManualPublicKey.png](Images/ManualPublicKey.png)
 
 This is because windows requires you to do it manually 
 
-### Vertifying my Key-Based Authentication (No password needed!)
+### c.  Vertifying my Key-Based Authentication (No password needed!)
 ![Authentication.png](Images/Authentication.png)
 
 
