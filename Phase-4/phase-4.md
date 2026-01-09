@@ -54,13 +54,13 @@ In the screenshot I showing how I am not root and have sudo privelleges
 ### b. Disabling the Root
 ![DisableRoot.png](Images/DisableRoot.png)
 
-To do this i log into the nano file and change the comment of PermitRootLogin to no and remove the # so it can be implemented 
+To do this I log into the nano file and change the comment of PermitRootLogin to no and remove the # so it can be implemented 
 
 ### c. Restart/ Updating security Configuration
 
-![EnableFirewall.png](Images/EnableFiewall.png)
+![RestartNoIssue.png](Images/RestartNoIssue.png)
 
-Here I am restarting with no error, this shows I have updated the secruity configuration  
+Here I am restarting with no error, this shows I have updated the security configuration  
 
 ### d. Verifying the Root
 
