@@ -39,7 +39,7 @@ For my policies and my firewall to be active I need to enable the firewall using
 
 ### d. Verifying the Firewall
 
-![verifyFirewall.png](Images/verifyFirewall.png)
+![VerifyFirewall.png](Images/VerifyFirewall.png)
 
 As you can see from the screenshot above, the firewall is now active 
 
