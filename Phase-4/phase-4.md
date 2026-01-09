@@ -52,7 +52,7 @@ As you can see from the screenshot above, the firewall is now active
 In the screenshot I showing how I am not root and have sudo privelleges 
 
 ### b. Disabling the Root
-![AllowingSSH.png](Images/AllowingSH.png)
+![DisableRoot.png](Images/DisableRoot.png)
 
 To do this i log into the nano file and change the comment of PermitRootLogin to no and remove the # so it can be implemented 
 
