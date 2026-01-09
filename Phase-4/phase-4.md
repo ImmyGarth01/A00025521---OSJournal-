@@ -45,6 +45,29 @@ As you can see from the screenshot above, the firewall is now active
 
 ## 3. Manage users/privellege management, creating a non-root administrative user 
 
+### a. Declaration of Who Am I 
+
+![DefaultPolicy.png](Images/DefaultPolicy.png)
+
+In the screenshot I showing how I am not root and have sudo privelleges 
+
+### b. Disabling the Root
+![AllowingSSH.png](Images/AllowingSH.png)
+
+To do this i log into the nano file and change the comment of PermitRootLogin to no and remove the # so it can be implemented 
+
+### c. Restart/ Updating security Configuration
+
+![EnableFirewall.png](Images/EnableFiewall.png)
+
+Here I am restarting with no error, this shows I have updated the secruity configuration  
+
+### d. Verifying the Root
+
+![VerifyFirewall.png](Images/VerifyFiewll.png)
+
+As you can see from the screenshot above, the root is verified to have a disabled root, showing I implement privilege management
+
 ## 4. SSH Access Evidence 
 
 ![Authentication.png](Images/Authentication.png)
