@@ -47,7 +47,7 @@ As you can see from the screenshot above, the firewall is now active
 
 ### a. Declaration of Who Am I 
 
-![DefaultPolicy.png](Images/DefaultPolicy.png)
+![Root&Sudo.png](Images/Root&Sudo.png)
 
 In the screenshot I showing how I am not root and have sudo privelleges 
 
