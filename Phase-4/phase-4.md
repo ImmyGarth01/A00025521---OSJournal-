@@ -78,7 +78,20 @@ Showing a successful connection
 
 ### Before: SSH Configuration
 
-![Authentication.png](Images/Authntication.png)
+![BeforeSSH.png](Images/BeforeSSH.png)
+
+### After: SSH Configuration
+
+![DisableRoot.png](Images/DisableRoot.png)
+
+### Before: Firewall Configuration
+
+![BeforeSSH.png](Images/BefoSH.png)
+
+### After: Firewall Configuration
+
+![DisableRoot.png](Images/Disabloot.png)
+
 
 ## 6. Firewall Documentation 
 
