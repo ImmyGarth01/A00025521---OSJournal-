@@ -9,8 +9,15 @@ Deploy your server and implement foundational security controls
 ### Creating a Public and Private Key on my Host Machine
 ![CreationPPkeys](Images/CreationPPkeys)
 
+### Manually Adding the Public Key to my Ubunutu Server
+![ManualPublicKey.png](Images/ManualPublicKey.png)
 
-ManualPublicKey.png
+This is because windows requires you to do it manually 
+
+### Vertifying my Key-Based Authentication (No password needed!)
+![Authentication.png](Images/Authentication.png)
+
+
 
 ## 2. Firewall Configuration (SSH from one specific workstation)
 
