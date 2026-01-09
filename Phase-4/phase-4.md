@@ -5,7 +5,11 @@ Deploy your server and implement foundational security controls
 ---
 
 ## 1. Configure SSH with Key-based authentication  
-![ApplicationSelectionMatrix](Images/ApplicationSelectionMatrix.png)
+
+### Creating a Public and Private Key on my Host Machine
+![1. key authetication 1 .png](Images/1. key authetication 1 .png)
+
+
 
 
 ## 2. Firewall Configuration (SSH from one specific workstation)
