@@ -86,7 +86,7 @@ Showing a successful connection
 
 ### Before: Firewall Configuration
 
-![BeforeSSH.png](Images/BefoSH.png)
+![DefaultPolicy.png](Images/DefaultPolicy.png)
 
 ### After: Firewall Configuration
 
