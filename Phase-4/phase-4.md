@@ -21,7 +21,7 @@ This is because windows requires you to do it manually
 
 ## 2. Firewall Configuration (SSH from one specific workstation)
 
-### a. Settng Default Policies
+### a. Setting Default Policies
 ![DefaultPolicy.png](Images/DefaultPolicy.png)
 
 Here I am denying all incoming and allowing outgoing (for internet connections), although we are setting up the policies are here they are still ineffective until the firewall is enables 
@@ -75,6 +75,10 @@ As you can see from the screenshot above, the root is verified to have a disable
 Showing a successful connection 
 
 ## 5. Configuration Files with before and after comparisons 
+
+### Before: SSH Configuration
+
+![Authentication.png](Images/Authntication.png)
 
 ## 6. Firewall Documentation 
 
