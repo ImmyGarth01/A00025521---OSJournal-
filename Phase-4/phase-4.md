@@ -33,13 +33,13 @@ Firstly I looked up the ip of my laptop's ssh session so I was connecting my spe
 
 ### c. Enabling the firewall 
 
-![Authenticationpng](Images/Authentication.png)
+![EnableFirewall.png](Images/EnableFirewall.png)
 
 For my policies and my firewall to be active I need to enable the firewall using the above command 
 
 ### d. Verifying the Firewall
 
-![Authenticationpng](Images/Authentication.png)
+![verifyFirewall.png](Images/verifyFirewall.png)
 
 As you can see from the screenshot above, the firewall is now active 
 
