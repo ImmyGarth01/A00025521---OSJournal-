@@ -47,6 +47,10 @@ As you can see from the screenshot above, the firewall is now active
 
 ## 4. SSH Access Evidence 
 
+![Authentication.png](Images/Authentication.png)
+
+Showing a successful connection 
+
 ## 5. Configuration Files with before and after comparisons 
 
 ## 6. Firewall Documentation 
