@@ -48,3 +48,5 @@ Lastly here I am verifying my ngnix service to show its running
 
 ## 4. Monitoring Strategy
 
+![MonitoringStrategy.png](Images/MonitoringStrategy.png)
+
