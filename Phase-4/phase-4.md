@@ -102,5 +102,5 @@ Above is the Firewall Documentation showing the complete ruleset
 
 Below I am demonstrating my remote administration evidence showing commands executed via SSH. Firstly I show I am connected via SSH, Secondly I will show my idenity and lastly Show administrative action via SSH
 
-![VerifyFirewall.png](Images/VerifyFiewall.png)
+![RemotteAdmin.png](Images/RemotteAdmin.png)
 
