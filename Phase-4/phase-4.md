@@ -8,9 +8,15 @@ Deploy your server and implement foundational security controls
 ![ApplicationSelectionMatrix](Images/ApplicationSelectionMatrix.png)
 
 
-## 2. Firewall Configuration (SSH from one specific workstation
+## 2. Firewall Configuration (SSH from one specific workstation)
 
 ## 3. Manage users/privellege management, creating a non-root administrative user 
 
-## 4. 
+## 4. SSH Access Evidence 
+
+## 5. Configuration Files with before and after comparisons 
+
+## 6. Firewall Documentation 
+
+## 7. Remote Adminstration Evidence 
 
