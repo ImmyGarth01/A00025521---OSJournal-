@@ -10,7 +10,7 @@ Deploy your server and implement foundational security controls
 ![CreationPPkeys](Images/CreationPPkeys)
 
 
-
+ManualPublicKey.png
 
 ## 2. Firewall Configuration (SSH from one specific workstation)
 
