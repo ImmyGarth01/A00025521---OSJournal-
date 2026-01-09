@@ -64,7 +64,7 @@ Here I am restarting with no error, this shows I have updated the security confi
 
 ### d. Verifying the Root
 
-![VerifyFirewall.png](Images/VerifyFiewll.png)
+![VerRoot.png](Images/VerRoot.png)
 
 As you can see from the screenshot above, the root is verified to have a disabled root, showing I implement privilege management
 
