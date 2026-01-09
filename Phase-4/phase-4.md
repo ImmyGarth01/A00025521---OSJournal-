@@ -21,6 +21,28 @@ This is because windows requires you to do it manually
 
 ## 2. Firewall Configuration (SSH from one specific workstation)
 
+### a. Settng Default Policies
+![Authenticationpng](Images/Authentication.png)
+
+Here I am denying all incoming and allowing outgoing (for internet connections), although we are setting up the policies are here they are still ineffective until the firewall is enables 
+
+### b. Allowing SSH from my laptop access only
+![Authenticationpng](Images/Authentication.png)
+
+Firstly I looked up the ip of my laptop's ssh session so I was connecting my specific workstation only 
+
+### c. Enabling the firewall 
+
+![Authenticationpng](Images/Authentication.png)
+
+For my policies and my firewall to be active I need to enable the firewall using the above command 
+
+### d. Verifying the Firewall
+
+![Authenticationpng](Images/Authentication.png)
+
+As you can see from the screenshot above, the firewall is now active 
+
 ## 3. Manage users/privellege management, creating a non-root administrative user 
 
 ## 4. SSH Access Evidence 
