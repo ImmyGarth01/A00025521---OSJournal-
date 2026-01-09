@@ -22,7 +22,7 @@ This is because windows requires you to do it manually
 ## 2. Firewall Configuration (SSH from one specific workstation)
 
 ### a. Settng Default Policies
-![Authenticationpng](Images/Authentication.png)
+![DefaultPolicy.png](Images/DefaultPolicy.png)
 
 Here I am denying all incoming and allowing outgoing (for internet connections), although we are setting up the policies are here they are still ineffective until the firewall is enables 
 
