@@ -33,3 +33,7 @@ This shows which profiles are currently being tracked and reported on in the acc
 The enforcement status of AppArmor profiles was reported, confirming that profiles are actively enforced rather than operating in complain mode
 
 ## 2. Configure Automatic Security Updates 
+
+### a. Confirming unattended-upgrades are installed
+
+![EnforceAAProfiles.png](Images/EnforceAAProfes.png)
