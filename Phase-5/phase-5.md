@@ -39,3 +39,7 @@ The enforcement status of AppArmor profiles was reported, confirming that profil
 ![CheckInstall.png](Images/CheckInstall.png)
 
 Firstly I checked that the automatic update package was installed
+
+### b. Enabling Automatic Updates
+
+![CheckInstall.png](Images/CheckInstal.png)
