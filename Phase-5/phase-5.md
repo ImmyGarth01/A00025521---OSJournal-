@@ -37,3 +37,5 @@ The enforcement status of AppArmor profiles was reported, confirming that profil
 ### a. Confirming unattended-upgrades are installed
 
 ![CheckInstall.png](Images/CheckInstall.png)
+
+Firstly I checked that the automatic update package was installed
