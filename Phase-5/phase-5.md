@@ -142,4 +142,4 @@ As you can see there is no return error, meaning that is executable
 
 ### d. Running the Script 
 ![MSoutput.png](Images/MSoutput.png)
-
+The output.
