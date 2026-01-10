@@ -105,10 +105,21 @@ This script is to verify all the security configurations done
 
 ### a. Creating the Script 
 
+![CreatingSBVS.png](Images/CreatingSBVS.png)
+
 ### b. The Nano Script itself 
+![SBVS1.png](Images/SBVS1.png)
+![SBVS2.png](Images/SBVS2.png)
+![SBVS3.png](Images/SBVS3.png)
+
+Throughout the script I am using the commands that I have used throughout phase 4 and 5 
 
 ### C. Make the Script executable 
-
-As you can see there is no return erro, meaning that is executable 
+![MakingExec.png](Images/MakingExec.png)
+As you can see there is no return error, meaning that is executable 
 
 ### d. Running the Script 
+![Run1.png](Images/Run1.png)
+![Run2.png](Images/Run2.png)
+
+The output, once you run the script, doing commands displayed earlier in this journal 
