@@ -95,3 +95,20 @@ In this screenshot you can see what is being monitored and the jail configured. 
 ![JailInfo.png](Images/JailInfo.png)
 
 This is a log of what attempts and bans have been made, showign that my Fail2Ban is being enforced
+
+
+## 4. Create a Security baseline verification script ('Security-baseline.sh') that runs on the server (executed via SSH) and verifies all security configurations from Phase 4 and 5 
+
+Script = a file that contains a list of commands.
+
+This script is to verify all the security configurations done 
+
+### a. Creating the Script 
+
+### b. The Nano Script itself 
+
+### C. Make the Script executable 
+
+As you can see there is no return erro, meaning that is executable 
+
+### d. Running the Script 
