@@ -36,4 +36,4 @@ The enforcement status of AppArmor profiles was reported, confirming that profil
 
 ### a. Confirming unattended-upgrades are installed
 
-![EnforceAAProfiles.png](Images/EnforceAAProfes.png)
+![CheckInstall.png](Images/CheckInstall.png)
