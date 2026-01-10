@@ -36,10 +36,31 @@ The enforcement status of AppArmor profiles was reported, confirming that profil
 
 ### a. Confirming unattended-upgrades are installed
 
-![CheckInstall.png](Images/CheckInstall.png)
+![CheckInstall.png](Images/CheckInstal.png)
 
 Firstly I checked that the automatic update package was installed
 
 ### b. Enabling Automatic Updates
 
-![CheckInstall.png](Images/CheckInstal.png)
+![EnableAuto.png](Images/EnableAuto.png)
+
+Here I am enabling the automatic updates 
+
+### c. Configuration file 
+
+![ConfigFile.png](Images/ConfigFile.png)
+
+By opening up the configuration file I am showing how the securiity repositeries are listed and enabled meaning they will be installed with no intervention 
+
+### d. Verifying Periodic Update Settings 
+
+![VerPeriodUpdate.png](Images/VerPeriodUpdate.png)
+
+This screenshot shows that automatic updates actually run on a scedule, the 1 means they enabled 
+
+### e. Verifying Service and Logs 
+
+![Run&LogConfirm.png](Images/Run&LogConfirm.png)
+
+Here you can you the service running confirmation and the logs confirming its active 
+
