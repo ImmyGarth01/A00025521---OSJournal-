@@ -80,7 +80,7 @@ Seen in the screenshots above, I have installed Fail2Ban, I screenshotted parts 
 
 ![Fail2BanStatusCheck.png](Images/Fail2BanStatusCheck.png)
 
-Here I am jsut checkign the status and as you can see it is running 
+Here I am just checkign the status and as you can see it is running 
 
 ### c. Checking Jail Configuration
 
@@ -94,4 +94,4 @@ In this screenshot you can see what is being monitored and the jail configured. 
 
 ![JailInfo.png](Images/JailInfo.png)
 
-This is a log of what attemeotes and bands have been made, showign that my Fail2Ban is being enforced
+This is a log of what attempts and bans have been made, showign that my Fail2Ban is being enforced
