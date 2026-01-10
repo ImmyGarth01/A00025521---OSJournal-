@@ -123,3 +123,23 @@ As you can see there is no return error, meaning that is executable
 ![Run2.png](Images/Run2.png)
 
 The output, once you run the script, doing commands displayed earlier in this journal 
+
+## 5. Creating a Remote Monitoring Script ('monitor-server.sh') that runs on on your workstation connects via SSH, and collects performance metrics from the server 
+
+This script is designed to collect performance metrics from server 
+
+### a. Creating the Script
+![CreatingMS.png](Images/Run1.png)
+
+### b. The Nano Script itself 
+![NanoMS.png](Images/NanoMS.png)
+
+Trhoughout the script, I'm bringing performance metrics for workloads I've mentioned in Phase 3
+
+### c. Make the Script executable 
+![ExecuteMS.png](Images/ExecuteMS.png)
+As you can see there is no return error, meaning that is executable 
+
+### d. Running the Script 
+![MSoutput.png](Images/MSoutput.png)
+
