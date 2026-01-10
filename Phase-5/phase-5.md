@@ -62,5 +62,5 @@ This screenshot shows that automatic updates actually run on a scedule, the 1 me
 
 ![Run&LogConfirm.png](Images/Run&LogConfirm.png)
 
-Here you can you the service running confirmation and the logs confirming its active 
+Here you can see you the service running confirmation and the logs confirming its active 
 
