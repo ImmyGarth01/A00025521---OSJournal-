@@ -64,3 +64,10 @@ This screenshot shows that automatic updates actually run on a scedule, the 1 me
 
 Here you can see you the service running confirmation and the logs confirming its active 
 
+
+## Configuration of Fail2ban
+
+Fail2Ban is an intrusion prevention tool. It monitors log files and automatically blocks IPs with too many failed login attempts.
+
+##
+
