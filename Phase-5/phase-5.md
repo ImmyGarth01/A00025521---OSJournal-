@@ -70,6 +70,8 @@ Here you can see you the service running confirmation and the logs confirming it
 Fail2Ban is an intrusion prevention tool. It monitors log files and automatically blocks IPs with too many failed login attempts.
 
 ### a. Install Fail2Ban 
-![Run&LogConfirm.png](Images/Run&LogCofirm.png)
+![InstallFail2Ban.png](Images/InstallFail2Ban.png)
 
+![Install2.png](Images/Install2.png)
 
+Seen in the screenshots above, I have installed Fail2Ban, I screenshotted parts of the installation message as it was rather long 
