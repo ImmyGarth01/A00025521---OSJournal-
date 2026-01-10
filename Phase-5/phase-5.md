@@ -75,3 +75,23 @@ Fail2Ban is an intrusion prevention tool. It monitors log files and automaticall
 ![Install2.png](Images/Install2.png)
 
 Seen in the screenshots above, I have installed Fail2Ban, I screenshotted parts of the installation message as it was rather long 
+
+### b. Check Fail2Ban Status 
+
+![Fail2BanStatusCheck.png](Images/Fail2BanStatusCheck.png)
+
+Here I am jsut checkign the status and as you can see it is running 
+
+### c. Checking Jail Configuration
+
+Jail  = A set of rules that define what to monitor and how to respond 
+
+![JailConfigurations.png](Images/JailConfigurations.png)
+
+In this screenshot you can see what is being monitored and the jail configured. As I just installed Fail2Ban the default 1 jail for SSH is being shown 
+
+### d. Showing Jail Information 
+
+![JailInfo.png](Images/JailInfo.png)
+
+This is a log of what attemeotes and bands have been made, showign that my Fail2Ban is being enforced
