@@ -51,8 +51,10 @@ First I will test/collect the performance metrics at baseline meaning that they 
 #### Disk Usage ####
 ![InstallPer.png](Images/InstllPer.png)
 
-#### Network Performance/ System Latency ####
+#### Network Performance #### 
 ![InstallPer.png](Images/InstallPerpng)
+
+#### System Latency ####
 
 #### Service Response Times ####
 This is observered through the SSH login, Changes in CPU load, Memory usuage, disk activity 
