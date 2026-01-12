@@ -7,10 +7,23 @@ Execute detailed performance testing and analyse operating system behaviour unde
 ## 1. Documentation 
 
 #### What is being tested? ####
+In this particular project the whole system performance, including CPU, Memory, Disk and Network load, usage and latency is being tested. The system in question is my ubuntu server which I have accessed through a SSH connection through my host laptop.
 
 #### What metrics are being used? ####
+The metrics being used include:
 
-#### How was testing conducted? ####
+- CPU load & usage
+- Memory usage
+- Disk usage
+- Network/system latency
+- Service response time (SSH)
+
+#### How will testing be conducted? ####
+Tesing will be conducted through 4 main parts:
+1. Baseline Performance testing
+2. Application load testing
+3. Performance Analysis
+4. Optimisation testing
 
 ## 2. Performance Data Table 
 
