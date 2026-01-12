@@ -40,24 +40,28 @@ Firstly I will show the installation of sysstat which is the performance monitor
 First I will test/collect the performance metrics at baseline meaning that they are idle, this is before I run them through stress tests which will ultimatley give and insight into how they are working 
 
 #### CPU load ####
-![InstallPer.png](Images/Installer.png)
+![BCPUL.png](Images/BCPUL.png)
 
 #### CPU Usage ####
-![InstallPer.png](Images/InstalPer.png
+![BCPUUSA.png](Images/BCPUUSA.png)
 
 #### Memory Usage ####
-![InstallPer.png](Images/InstalPer.png)
+![BMemoryUsa.png](Images/BMemoryUsa.png)
 
 #### Disk Usage ####
-![InstallPer.png](Images/InstllPer.png)
+![BDiskUsa.png](Images/BDiskUsa.png)
 
 #### Network Performance #### 
-![InstallPer.png](Images/InstallPerpng)
+![BNetLat.png](Images/BNetLat.png)
 
 #### System Latency ####
+![BSysLat.png](Images/BSysLat.png)
+
 As seen in the screenshot above commands seem to return instantly, showign how the operating system opperates quickly
 
 #### Service Response Times ####
+![BSerRes.png](Images/BSerRes.png)
+
 Both the SSH login and the commands appear immediately showing the response time is immediate
 
 ## 5. Network Performance Analysis 
