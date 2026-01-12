@@ -64,18 +64,18 @@ Both the SSH login and the commands appear immediately showing the response time
 ### b. Application Load Testing
 
 Here I am activating the load test:
-![BSerR.png](Images/BSpng)
-
-I made sure to open up a new SSH session because that allows me to run my commands at the same time the stress running which will lead to more accurate results 
+![ActivateTest.png](Images/ActivateTest.png)
+I made sure to open up a new SSH session because that allows me to run my commands at the same time the stress running which will lead to more accurate results, this is seen in the screenshot below
+![NewSSH.png](Images/NewSSH.png)
 
 #### CPU load ####
-![BCPUL.png](Images/BPUL.png)
+![LCPUL.png](Images/LCPUL.png)
 
 #### Memory Usage ####
-![BMemoryUsa.png](Images/BMmoryUsa.png)
+![LMUsa.png](Images/LMUsa.png)
 
 #### Disk Usage ####
-![BDiskUsa.png](Images/BDiUsa.png)
+![LDiUsa.png](Images/LDiUsa.png)
 
 #### Network Performance #### 
 ![BNetLat.png](Images/BNeat.png)
