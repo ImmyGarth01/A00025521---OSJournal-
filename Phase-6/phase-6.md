@@ -64,6 +64,8 @@ As seen in the screenshot above commands seem to return instantly, showign how t
 
 Both the SSH login and the commands appear immediately showing the response time is immediate
 
+### a. Application Load Testing
+
 ## 5. Network Performance Analysis 
 
 ## 6. Optimisation Analysis
