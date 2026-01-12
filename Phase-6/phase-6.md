@@ -55,9 +55,10 @@ First I will test/collect the performance metrics at baseline meaning that they 
 ![InstallPer.png](Images/InstallPerpng)
 
 #### System Latency ####
+As seen in the screenshot above commands seem to return instantly, showign how the operating system opperates quickly
 
 #### Service Response Times ####
-This is observered through the SSH login, Changes in CPU load, Memory usuage, disk activity 
+Both the SSH login and the commands appear immediately showing the response time is immediate
 
 ## 5. Network Performance Analysis 
 
