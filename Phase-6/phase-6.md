@@ -37,7 +37,7 @@ Firstly I will show the installation of sysstat which is the performance monitor
 
 ### a. Baseline Performance Testing
 
-First I will test/collect the performance metrics at baseline meaning that they are idle 
+First I will test/collect the performance metrics at baseline meaning that they are idle, this is before I run them through stress tests which will ultimatley give and insight into how they are working 
 
 #### CPU load ####
 ![InstallPer.png](Images/Installer.png)
