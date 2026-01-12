@@ -78,7 +78,7 @@ I made sure to open up a new SSH session because that allows me to run my comman
 ![LDiUsa.png](Images/LDiUsa.png)
 
 #### Network Performance #### 
-![BNetLat.png](Images/BNeat.png)
+![LNet.png](Images/LNet.png)
 
 #### System Latency ####
 
