@@ -3,8 +3,8 @@
 Execute detailed performance testing and analyse operating system behaviour under different workloads 
 ---
 
-## 1. Implement Access Control using SELinux or AppArmor , with documentation showing how to track and report on access control settings 
+## 1. Documentation 
 
-In this case, as i'm operating an ubunut server my MAC will be AppArmor. 
+Firstly I will show the installation of sysstat which is the performance monitoring toolkit I will be using 
 
 ### a. Con
