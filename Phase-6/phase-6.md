@@ -6,6 +6,12 @@ Execute detailed performance testing and analyse operating system behaviour unde
 
 ## 1. Documentation 
 
+#### What is being tested? ####
+
+#### What metrics are being used? ####
+
+#### How was testing conducted? ####
+
 ## 2. Performance Data Table 
 
 ## 3. Performance Visualisations
