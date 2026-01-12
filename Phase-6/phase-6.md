@@ -3,7 +3,14 @@
 Execute detailed performance testing and analyse operating system behaviour under different workloads 
 ---
 
+
 ## 1. Documentation 
+
+## 2. Performance Data Table 
+
+## 3. Performance Visualisations
+
+## 4. Testing Evidence 
 
 Firstly I will show the installation of sysstat which is the performance monitoring toolkit I will be using 
 
@@ -30,3 +37,7 @@ First I will test/collect the performance metrics at baseline meaning that they 
 
 #### Service Response Times ####
 This is observered through the SSH login, Changes in CPU load, Memory usuage, disk activity 
+
+## 5. Network Performance Analysis 
+
+## 6. Optimisation Analysis
