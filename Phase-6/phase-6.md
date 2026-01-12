@@ -61,7 +61,7 @@ As seen in the screenshot above commands seem to return instantly, showign how t
 
 Both the SSH login and the commands appear immediately showing the response time is immediate
 
-### a. Application Load Testing
+### b. Application Load Testing
 
 Here I am activating the load test:
 ![BSerR.png](Images/BSpng)
@@ -81,13 +81,13 @@ I made sure to open up a new SSH session because that allows me to run my comman
 ![BNetLat.png](Images/BNeat.png)
 
 #### System Latency ####
-![BSysLat.png](Images/BSLat.png)
 
-As seen in the screenshot above commands seem to return instantly, showign how the operating system opperates quickly
+System latency is slightly higher because Commands like uptime, free -h take slightly longer to return than baseline, because CPU/memory is being used.
 
 #### Service Response Times ####
-![BSerRes.png](Images/BrRes.png)
 
-## 5. Network Performance Analysis 
+Service response time was slightly delayed, as SSH commands and login requests took marginally longer under load
+
+## 5. Network Performance Analysis
 
 ## 6. Optimisation Analysis
