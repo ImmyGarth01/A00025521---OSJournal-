@@ -34,6 +34,11 @@ Tesing will be conducted through 4 main parts:
 
 ## 3. Performance Visualisations
 
+![VisCPU.png](Images/VisCPU.png)
+![VisDisk.png](Images/VisDisk.png)
+![VisMem.png](Images/VisMem.png)
+![VisNet.png](Images/VisNet.png)
+
 ## 4. Testing Evidence 
 
 Firstly I will show the installation of sysstat which is the performance monitoring toolkit I will be using 
