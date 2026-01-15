@@ -25,6 +25,8 @@ Tesing will be conducted through 4 main parts:
 3. Performance Analysis
 4. Optimisation testing
 
+* Multiple SSH sessions were used to interact with the same server concurrently. One session executed the stress test, while another collected performance metrics, allowing real-time observation of system behaviour under load
+
 ### Conclusion: ###
 
 ## 2. Performance Data Table 
@@ -91,6 +93,15 @@ System latency is slightly higher because Commands like uptime, free -h take sli
 
 Service response time was slightly delayed, as SSH commands and login requests took marginally longer under load
 
+### C. Optimisation Testing 
+
+As a requirement of this section I had to make at least two improvements to my system which would make my server more optimal: I opted to stop unnecessary services and clear my cache memory 
+
+###  Stopping unnecessary services ###
+
+First I had to look all my services running as a whole so I could find ones I could stop that wouldn't impact the running of my server 
+![RunningSer.png](Images/RunningSe)
+So when I did this the two unnecessary services I decided to stop were the Gnome Display Manager (GDM) because I don't need a graphical login interface and secondly I decided to close the priniting functions (cups) as I won't use this either
 ## 5. Network Performance Analysis
 
 ## 6. Optimisation Analysis
