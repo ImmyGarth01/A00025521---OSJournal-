@@ -148,7 +148,7 @@ For the second improvement, all I had to do was jsut run the command below to cl
 After Optimisation testing, System latency stayed low because the reduction in runnning services meant a reduction in CPU overhead and general process scheduling
 
 #### Service Response Times ####
-Response time with the optimisation testing returned to immediate as the freeing on memory from clearing the cache and stopping non essential services means that memory is readly available and so the service's response time becomes immediate once again.
+Response time with the optimisation testing returned to immediate as the freeing oF memory from clearing the cache and stopping non essential services means that memory is readly available and so the service's response time becomes immediate.
 
 ## 5. Network Performance Analysis
 
@@ -157,3 +157,23 @@ Within this phase I used to the ping request to send to my ubuntu server in orde
 In evaluating the results, starting with the baseline at 0.07ms, this indicated that our baseline was at a low latency local nectwork connection between my host and the ubuntu server via SSH. Then once I completed the load testing this dropped down to 0.051ms, this is because it was mainly the CPU and Memory that was under stress during the testing which lead to a shortage in network congestion. Finally in response to the optimisation test in which unneccesary services stopped and background activity reduced the network latency stabalised at 0.071ms, proving that my server has a consistent low network latency.
 
 ## 6. Optimisation Analysis
+
+In undergoing my optimisation testing I first decided to identify any potential bottlenecks, this is because in order to have test my server in a optimum envriroment I need to highlight what could possibly be holding back my server. Ultimtely my performance analysis showed me that running services such as the GDM and Printing services was an inefficient use of memory and cpu because neither were required by the task at hand, for example, using the GDM is pointless because this project is cenetered around a headless SSH connection, and no printing is required either. Furthermore another bottleneck I identified was the excessive use of memory from cached background processes. I will now go through each benchmark and how optimisation testing impacted them 
+
+### CPU Performace ###
+During the baseline testing CPU was already pretty low, coming in at only 0.07, thus showing that it wasn't under much stress at all. However as seen in looking for bottlenecks it was pointless background services that still took up CPU load. During optimisation testing these background services were eventually stopped resulting in a reduction of background CPU activity, as a result this test showed the lowest of the CPU averages, illustrating that it reduced overhead and ultimiately increased efficiency 
+
+### Memory Performance ###
+For Memory the baseline was 1.1 GiB despite no specified active workloads were operating. This meant that there was definetly some inefficient memory storage most likely caused by background and cached processes. After optimisation, memory usage decreased significantly to approximately 0.57 GiB, confirming that by stopping these unnecessary services and clearing cache, memory resources could be freed.
+
+### Disk Performance ###
+The disk usage was consistenly at 8% however this was expecteded as I didn't add anything to test the disk workload. This is because the optimisation testing was more focuses on freeing memory and the running of services.
+
+### Network Performance ###
+Network Latency reamined reasonsably stable across the testing environments. This shows us that the removal of background processes didn't do much to put a stress on network latency.
+
+### System Latency ### 
+System Latency started relativel low, this is because the baseline testing had a minimal load. After optimisation, system latency remained low but became more consistent as fewer background processes competed for system resources.
+
+### Service Response Time ###
+Service response time was measured through how responsive the SSH was and how fast commands were execution. During baseline testing response times were immediate. Under load testing there were slight delays due to increased CPU and memory usage. Following optimisation testing SSH responsiveness and command execution returned to the standard immediate response, thus demonstrating that optimisation helped maintain service performance even under testing conditions.
