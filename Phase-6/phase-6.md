@@ -101,14 +101,20 @@ As a requirement of this section I had to make at least two improvements to my s
 #### Improvement 1: Stopping unnecessary services ####
 
 First I had to look all my services running as a whole so I could find ones I could stop that wouldn't impact the running of my server 
+
 ![RunningSer.png](Images/RunningSer.png)
+
 So when I did this the two unnecessary services I decided to stop were the Gnome Display Manager (GDM) because I don't need a graphical login interface and secondly I decided to close the priniting functions (cups) as I won't use this either
+
 ![Stop1.png](Images/Stop1.png)
+
 I then brought up my running services again so I could double check that they were not running seen in the proof below 
+
 ![StopProof.png](Images/StopProof.png)
 
 #### Improvement 2: Clearing my Memory Cache ####
-For the second improvement, all I had to do was jsut run the command below to clear my memory cache 
+For the second improvement, all I had to do was jsut run the command below to clear my memory cache
+
 ![ClearCache.png](Images/ClearCache.png)
 
 ## 5. Network Performance Analysis
