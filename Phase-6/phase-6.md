@@ -132,11 +132,10 @@ For the second improvement, all I had to do was jsut run the command below to cl
 ![ONet.png](Images/ONet.png)
 
 #### System Latency ####
-
+After Optimisation testing, System latency stayed low because the reduction in runnning services meant a reduction in CPU overhead and general process scheduling
 
 #### Service Response Times ####
-
-
+Response time with the optimisation testing returned to immediate as the freeing on memory from clearing the cache and stopping non essential services means that memory is readly available and so the service's response time becomes immediate once again.
 
 ## 5. Network Performance Analysis
 
