@@ -34,9 +34,17 @@ Tesing will be conducted through 4 main parts:
 
 ## 3. Performance Visualisations
 
+
+#### CPU load ####
 ![VisCPU.png](Images/VisCPU.png)
-![VisDisk.png](Images/VisDisk.png)
+
+#### Memory Usage ####
 ![VisMem.png](Images/VisMem.png)
+
+#### Disk Usage ####
+![VisDisk.png](Images/VisDisk.png)
+
+#### Network Performance #### 
 ![VisNet.png](Images/VisNet.png)
 
 ## 4. Testing Evidence 
