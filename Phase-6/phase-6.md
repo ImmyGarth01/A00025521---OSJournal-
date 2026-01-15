@@ -28,7 +28,7 @@ Tesing will be conducted through 4 main parts:
 ### Conclusion: ###
 
 ## 2. Performance Data Table 
-![InstallPer.png](Imags/InstallPer.png)
+![Performace data structure.png](Images/Performace data structure.png)
 
 ## 3. Performance Visualisations
 
