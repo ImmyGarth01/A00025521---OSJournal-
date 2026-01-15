@@ -25,9 +25,10 @@ Tesing will be conducted through 4 main parts:
 3. Performance Analysis
 4. Optimisation testing
 
-### Conclusion ###
+### Conclusion: ###
 
 ## 2. Performance Data Table 
+![InstallPer.png](Imags/InstallPer.png)
 
 ## 3. Performance Visualisations
 
