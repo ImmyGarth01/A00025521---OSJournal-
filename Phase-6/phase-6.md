@@ -131,7 +131,7 @@ For the second improvement, all I had to do was jsut run the command below to cl
 
 ![ClearCache.png](Images/ClearCache.png)
 
-#### Results of the Optimisation Testing ####
+#### Results of the Optimisation Testing: ####
 
 #### CPU load ####
 ![OCPUL.png](Images/OCPUL.png)
