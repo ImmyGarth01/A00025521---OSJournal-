@@ -117,6 +117,27 @@ For the second improvement, all I had to do was jsut run the command below to cl
 
 ![ClearCache.png](Images/ClearCache.png)
 
+#### Results of the Optimisation Testing ####
+
+#### CPU load ####
+![OCPUL.png](Images/OCPUL.png)
+
+#### Memory Usage ####
+![OMemUsa.png](Images/OMemUsa.png)
+
+#### Disk Usage ####
+![ODisUsa.png](Images/ODisUsa.png)
+
+#### Network Performance #### 
+![ONet.png](Images/ONet.png)
+
+#### System Latency ####
+
+
+#### Service Response Times ####
+
+
+
 ## 5. Network Performance Analysis
 
 ## 6. Optimisation Analysis
