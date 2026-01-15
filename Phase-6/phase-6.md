@@ -152,4 +152,8 @@ Response time with the optimisation testing returned to immediate as the freeing
 
 ## 5. Network Performance Analysis
 
+Within this phase I used to the ping request to send to my ubuntu server in order to measure network latency, this has been documented throughout this particular phase. Throughput, although not measured directly has still been monitored as the low latency and zero packet lost indiicates that the network throughput is more than efficient for this server. 
+
+In evaluating the results, starting with the baseline at 0.07ms, this indicated that our baseline was at a low latency local nectwork connection between my host and the ubuntu server via SSH. Then once I completed the load testing this dropped down to 0.051ms, this is because it was mainly the CPU and Memory that was under stress during the testing which lead to a shortage in network congestion. Finally in response to the optimisation test in which unneccesary services stopped and background activity reduced the network latency stabalised at 0.071ms, proving that my server has a consistent low network latency.
+
 ## 6. Optimisation Analysis
