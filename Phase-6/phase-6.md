@@ -28,6 +28,7 @@ Tesing will be conducted through 4 main parts:
 * Multiple SSH sessions were used to interact with the same server concurrently. One session executed the stress test, while another collected performance metrics, allowing real-time observation of system behaviour under load
 
 ### Conclusion: ###
+In conclusion, this phase evaluated the performance of my Ubuntu server under baseline, load, and optimised testing. By monitoring CPU, memory, disk, and network behaviour the system’s performance was evaluated. The results presented  that although baseline performance was already stable, optimisation steps such as stopping unnecessary services and managing memory usage improved overall efficiency and consistency. These findings provided a solid foundation for further performance analysis  evaluation in subsequent deliverables.
 
 ## 2. Performance Data Table 
 ![PDS](Images/PDS)
