@@ -25,6 +25,8 @@ Tesing will be conducted through 4 main parts:
 3. Performance Analysis
 4. Optimisation testing
 
+### Conclusion ###
+
 ## 2. Performance Data Table 
 
 ## 3. Performance Visualisations
