@@ -52,6 +52,9 @@ As the suggestion wrote, I just installed needrestart on my server
 
 ### d. Rerunning Lynis Again ###
 
+After making some changes and recommendations I ran the test again and as you can see this has increased my hardening index by 5%
+![RLynis.png](Images/RLynis.png)
+
 ## 2. Network Security Assessment ##
 
 ## 3. SSH Security Verification ## 
