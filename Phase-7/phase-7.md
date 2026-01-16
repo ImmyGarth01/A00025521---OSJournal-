@@ -67,10 +67,25 @@ As Port 22 is open, I'm just going to run a verification check to show you its t
 
 ![SSHVer.png](Images/SSHver.png)
 
-## 4. Service Audit ##
+## 4. Service Inventory with Justifications ##
 
-## 5. Access Control Verification ##
+![StopProof.png](Images/StopProof.png)
 
-## 6. System Configuration Review & Remaining Risks ###
+Below I will highlight some key running services and thier justification 
+
+
+ssh.service: Provides secure remote access to the server. This service is essential for system administration and was verified as securely configured during the audit.
+
+nginx.service: Runs the web server used for hosting and testing services as part of the project. This service is intentionally enabled and monitored.
+
+fail2ban.service: Protects the SSH service by monitoring authentication logs and blocking repeated failed login attempts, reducing the risk of brute-force attacks.
+
+NetworkManager.service: Manages network connectivity and IP addressing, required for communication between the host machine and the virtual server.
+
+rsyslog.service: Handles system logging, which is essential for auditing, troubleshooting, and security monitoring.
+
+cron.service: Used for scheduled background tasks and system maintenance processes.
+
+unattended-upgrades.service: Ensures critical security updates are applied automatically, reducing exposure to known vulnerabilities.
 
 
