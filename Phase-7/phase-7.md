@@ -42,6 +42,7 @@ In order to tackle package updates overwriting my file, I created a local overri
 ### d.  Working on Suggestion 2 ###
 The second suggestion I picked up was the one that recommended installing needrestart. This is because it scans all the running services after updates and highlights which ones are still using old libraries, thus needing a restart. This will help my server to be generally more secure and more efficient, especially since it will be taking advantage of the newest patch updates.
 
+
 ![S2.png](Images/S2.png)
 
 #### Solution: ####
