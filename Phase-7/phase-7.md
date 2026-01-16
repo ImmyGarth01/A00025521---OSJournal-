@@ -3,11 +3,10 @@
 Conduct a security audit and evaluate overall system configuration
 ---
 
-## 1. Security Audt Report
+## 1. Security Audit Report
 
-In this case, as i'm operating an ubunut server my MAC will be AppArmor. 
 
-### a. Confirming App Armour is Installed 
+### a. Running the Baseline Security Audit (Lynis)
 
 ![ConfirmAA.png](Images/ConfrmAA.png)
 
