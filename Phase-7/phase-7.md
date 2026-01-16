@@ -56,6 +56,8 @@ After making some changes and recommendations I ran the test again and as you ca
 ![RLynis.png](Images/RLynis.png)
 
 ## 2. Network Security Assessment ##
+In order to run a network security assessment I had to first install nmap. When the scan came back it proved that the network's security was good due to low risk, this is because the only two open ports were 22 for SSH and 80 for http (nginx) showing how it was only open for essential services 
+![RLyis.png](Images/RLyis.png)
 
 ## 3. SSH Security Verification ## 
 
