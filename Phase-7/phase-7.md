@@ -50,4 +50,16 @@ As the suggestion wrote, I just installed needrestart on my server
 
 ![S2C.png](Images/S2C.png)
 
+### d. Rerunning Lynis Again ###
+
+## 2. Network Security Assessment ##
+
+## 3. SSH Security Verification ## 
+
+## 4. Service Audit ##
+
+## 5. Access Control Verification ##
+
+## 6. System Configuration Review & Remaining Risks ###
+
 
