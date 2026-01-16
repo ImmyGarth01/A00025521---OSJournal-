@@ -21,18 +21,22 @@ This screenshot only shows a small percentage of the suggestions as there was a 
 
 ### b. Rectifying the Warning ###
 When I ran the Security Audit the only warning that came up was one that warned me that some of my packages had some vulnerabilities which translates that not all packages were fully patched, leading me open to surface level attacks 
+
 ![BWSLynis.png](Images/BWyis.png)
-#### solution: ####
+#### Solution: ####
 I decided to just enable unattended security updates, this means that my system will automatically update itself to protect against vulnerabilites 
+
 ![BWSLynis.png](Images/BWSys.png)
 
 ### c. Working on Suggestion 1 ###
+
 ![BWSLynis.png](Images/BWyis.png)
 
 The first suggestion I decided to take up was the suggestion to change Fail2Ban configuration protection,this is because Fail2Ban uses jail.conf which is a default file, meaning that it is open for package updates to overwrite it 
 
-#### solution: ####
+#### Solution: ####
 In order to tackle package updates overwriting my file, I created a local override file which overrides defaults meaning my Fail2Ban stays consistent and isn't overriden.
+
 ![BWSLynis.png](Images/BSyis.png)
 
 ### d. Working on Suggestion 2 ###
@@ -40,6 +44,7 @@ The second suggestion I picked up was the one that recommended installing needre
 
 ### Solution ### 
 As the suggestion wrote, I just installed needrestart on my server 
+
 ![BWSLynis.png](Images/Syis.png)
 
 
