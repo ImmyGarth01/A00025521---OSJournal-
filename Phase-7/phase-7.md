@@ -63,6 +63,10 @@ In order to run a network security assessment I had to first install nmap. When 
 
 ## 3. SSH Security Verification ## 
 
+As Port 22 is open, I'm just going to run a verification check to show you its the Remote access and is intentional
+
+![Nr.png](Images/N.png)
+
 ## 4. Service Audit ##
 
 ## 5. Access Control Verification ##
