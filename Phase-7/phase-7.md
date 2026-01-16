@@ -88,4 +88,6 @@ cron.service - Used for scheduled background tasks and system maintenance proces
 
 unattended-upgrades.service - Ensures critical security updates are applied automatically, reducing exposure to known vulnerabilities.
 
+## 5. Remaining Risk Assessment ##
 
+Despite the security hardening changes implemented some risks still remain. The SSH service on port 22 is still open which presents a potential attack surface. This risk is reduced through the use of Fail2Ban, secure SSH configuration, and restricted access, but cannot be completely eliminated because SSH access is required for remote administration. The Nmap scan confirmed that the HTTP (port 80) is open due to the Nginx web server being active.Even though this is  intentional for the project it is still a potential risk if the web service is unpatched and unstable. This risk is reduced through the imposed regular system updates. Additionally, some system and background services remain active as they are required for core  functionality.If I was disable these services this could negatively impact system stability, so It is more important to except some risk in order for  operrations to run normally
